@@ -1,0 +1,7 @@
+name: BackToServer_Spigot
+author: PulsePvP_
+main: pulsepvp_.BackToServer_Spigot.BackToServer_Spigot
+version: 1.0
+description: Plugin BackToServer_Spigot
+prefix: null
+api-version: 1.13
